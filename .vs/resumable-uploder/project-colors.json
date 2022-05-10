@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e2c0f32-722c-4d1f-8082-e3822899bd7e": {
+      "ProjectGuid": "7e2c0f32-722c-4d1f-8082-e3822899bd7e",
+      "DisplayName": "ResumableUploder.Api",
+      "ColorIndex": 0
+    },
+    "a05a3c81-ab1e-4702-b143-18eea0a36fc5": {
+      "ProjectGuid": "a05a3c81-ab1e-4702-b143-18eea0a36fc5",
+      "DisplayName": "ResumableUploder.WebUI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
