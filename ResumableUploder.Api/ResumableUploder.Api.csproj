@@ -12,4 +12,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="CompleteAction\" />
+    <Folder Include="Temp\" />
+    <Folder Include="VideoTemp\" />
+    <Folder Include="Video\" />
+    <Folder Include="Zips\" />
+  </ItemGroup>
+
 </Project>
